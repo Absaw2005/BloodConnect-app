@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+    <item android:title="Donate"
+        android:id="@+id/donate"
+        android:icon="@drawable/donate"/>
+    <item android:title="Request for blood"
+        android:id="@+id/request"
+        android:icon="@drawable/request"/>
+</menu>

@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.grocery.fragment.LoginFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="25.00dp"
+                android:src="@drawable/applogo" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Donate Blood Save Life"
+                android:textSize="22.10sp"
+                android:layout_marginTop="20.00dp"
+                android:textColor="@color/black"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Login or Signup"
+                android:textSize="15.10sp"
+                android:layout_marginTop="20dp
+"
+                android:textColor="@color/black"
+                android:layout_gravity="center"
+                android:textStyle="bold"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="26.00dp"
+                android:layout_marginTop="19.50dp"
+                app:boxCornerRadiusBottomEnd="16.50dp"
+                app:boxCornerRadiusBottomStart="16.50dp"
+                app:boxCornerRadiusTopEnd="16.50dp"
+                app:boxCornerRadiusTopStart="16.50dp"
+                app:endIconMode="clear_text">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/phone_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="10.00dp"
+                    android:hint="Enter mobile number"
+                    android:maxLength="10"
+                    android:inputType="number"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/continue_btn"
+                android:layout_width="match_parent"
+                android:layout_height="58.50dp"
+                android:text="Continue"
+                android:layout_marginHorizontal="26.00dp"
+                android:layout_marginTop="6.60dp"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:textAllCaps="false"
+                app:cornerRadius="10.50dp"
+                android:backgroundTint="@color/red"/>
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
