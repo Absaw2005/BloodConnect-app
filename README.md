@@ -19,9 +19,20 @@ Users support each other in critical situations by sharing and responding to nee
 
 ---
 
-## 📱 Screenshots
+## 📱 App Screenshots
 
-*(Add your app screenshots here — helps users understand the UI and features quickly.)*
+### Home Screen
+![Home Screen](design(1).png)
+
+### Search Blood Donor
+![Search Screen](design.png)
+
+### Login And OTP
+![Request Screen](app2.png)
+
+### Register
+![Profile Screen](app1.png)
+
 
 ---
 
@@ -32,8 +43,8 @@ This Android app is built using:
 - **Kotlin**
 - Android SDK
 - Gradle build system
-
-*(Update with any backend, libraries, or tools you use.)* :contentReference[oaicite:2]{index=2}
+- Firebase
+- xml
 
 ---
 
