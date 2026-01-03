@@ -2,7 +2,7 @@
 
 **BloodConnect-app** is a mobile application that helps users **find blood donors in emergency situations**, **post blood-related needs**, and **help each other with life-saving support**. This app’s mission is to simplify the process of locating compatible blood donors and strengthen the community’s ability to respond during urgent needs.
 
-Based on open-source principles, BloodConnect encourages developers and contributors to help build and improve this tool. :contentReference[oaicite:0]{index=0}
+Based on open-source principles, BloodConnect encourages developers and contributors to help build and improve this tool.
 
 ---
 
@@ -15,8 +15,7 @@ Search for available blood donors by blood type and location.
 Create and share urgent requests to notify nearby donors.
 
 ✅ **Community Driven**  
-Users support each other in critical situations by sharing and responding to needs. :contentReference[oaicite:1]{index=1}
-
+Users support each other in critical situations by sharing and responding to needs. 
 ---
 
 ## 📱 App Screenshots
