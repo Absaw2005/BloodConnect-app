@@ -22,16 +22,16 @@ Users support each other in critical situations by sharing and responding to nee
 ## 📱 App Screenshots
 
 ### Home Screen
-![Home Screen](design (1).png)
+![Home Screen](design_(1).png)
 
 ### Search Blood Donor
 ![Search Screen](design.png)
 
 ### Login And OTP
-![Request Screen](app 2.png)
+![Request Screen](app_2.png)
 
 ### Register
-![Profile Screen](app 1.png)
+![Profile Screen](app_1.png)
 
 
 ---
